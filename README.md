@@ -8,3 +8,12 @@
 - first we inetiallise the npm after creact a repository for redux practice.
 - `npm install redux`
 - with this command we install this repository for redux.
+
+
+
+#### Done Task For Today
+- Learning use useReducer with Context API.
+- Learning redux | Introduction to redux.
+- Learning redux | state, actions.
+- Making the redux environmet.
+- 
