@@ -16,4 +16,5 @@
 - Learning redux | Introduction to redux.
 - Learning redux | state, actions.
 - Making the redux environmet.
+- Practicing redux | state, actions.
 - 
