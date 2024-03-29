@@ -45,7 +45,7 @@ const store = createStore(counterReducer);
 
 store.subscribe(() => {
   console.log(store.getState());
-})
+});
 
 
 // dispatch ation
