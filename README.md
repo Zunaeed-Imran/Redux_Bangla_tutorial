@@ -12,9 +12,7 @@
 
 
 #### Done Task For Today
-- Learning use useReducer with Context API.
-- Learning redux | Introduction to redux.
-- Learning redux | state, actions.
-- Making the redux environmet.
-- Practicing redux | state, actions.
-- 
+- Learning redux | Reducers
+- Practice redux reducer.
+- Learning redux | Store.
+- Practice redux | Store.
