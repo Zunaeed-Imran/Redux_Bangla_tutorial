@@ -5,30 +5,23 @@
 // reducer is a pure function.
 // we will create reducer for counter.
 
-const INCREMENT = 'Increment';
-
-const DECREMENT = 'Decrement';
-
-const initialCounterSTate = {
-  count: 0,
+const initialState = {
+  counter: 0,
 };
 
-
-const counterReducer = (state, action) => {
+const reducer = (state = initialState, action) => {
   switch (action.type) {
-    case INCREMENT:
+    case 'INCREMENT':
       return {
         ...state,
-        count: state.count +1
-      }
-
-    case DECREMENT:
-      return {
-        ...state,
-        count: state.count - 1,
+        counter: state.counter + 1,
       };
-    
+    case 'DECREMENT':
+      return {
+        ...state,
+        counter: state.counter - 1,
+      };
     default:
-      state;
+      return state;
   }
 };
