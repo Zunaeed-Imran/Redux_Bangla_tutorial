@@ -2,9 +2,9 @@
 // reducer
 // store
 
-// const { createStore } = require("redux");
+const { createStore } = require("redux");
 
-import { createStore } from 'redux';
+// import { createStore } from 'redux';
 
 // CONSTANTS
 const INCREMENT = 'INCREMENT';
@@ -66,3 +66,5 @@ store.subscribe(() => {
 })
 
 store.dispatch(incrementCounterAction());
+store.dispatch(decrementCounterAction());
+store.dispatch(resetCounterAction());
