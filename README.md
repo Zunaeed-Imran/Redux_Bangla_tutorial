@@ -12,7 +12,7 @@
 
 
 #### Done Task For Today
-- Learning redux | Reducers
-- Practice redux reducer.
-- Learning redux | Store.
-- Practice redux | Store.
+- Practicing redux | counter app.
+- Learning redux | payload.
+- Practicing redux | payload.
+- 
