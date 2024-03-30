@@ -15,4 +15,6 @@
 - Practicing redux | counter app.
 - Learning redux | payload.
 - Practicing redux | payload.
+- Learning redux | Multiple reducers.
+- Practicing redux multiple reducers.
 - 
