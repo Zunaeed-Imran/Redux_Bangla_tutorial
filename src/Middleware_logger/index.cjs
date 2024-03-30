@@ -2,13 +2,13 @@ import { applyMiddleware, createStore } from 'redux';
 import logger from 'redux-logger';
 
 // product const
-const GET_PRODUCTS = 'GET_PRODUCTS';
-const ADD_PRODUCT = 'ADD_PRODUCT';
+const GET_PRODUCTS = "GET_PRODUCTS";
+const ADD_PRODUCT = "ADD_PRODUCT";
 
 
 // Product State
 const initialProductState = {
-  products: ['sugar', 'salt'],
+  products: ["sugar", "salt"],
   numberofProducts: 2,
 };
 
@@ -55,4 +55,4 @@ store.subscribe(() => {
 });
 
 store.dispatch(getProducts());
-store.dispatch(addProduct('mobile'));
+store.dispatch(addProduct("mobile"));
