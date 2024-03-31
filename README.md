@@ -12,11 +12,5 @@
 
 
 #### Done Task For Today
-- Practicing redux | counter app.
-- Learning redux | payload.
-- Practicing redux | payload.
-- Learning redux | Multiple reducers.
-- Practicing redux multiple reducers.
-- Learn Middleware | redux-logger.
 - Learinng fetch data using redux-thunk.
 - 

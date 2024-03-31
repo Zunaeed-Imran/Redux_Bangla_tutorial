@@ -48,7 +48,7 @@ const productReducer = (state = initialProductState, action) => {
 
 
 // store
-const store = createStore(productReducer, applyMiddleware(logger));
+const store = createStore(productReducer, applyMiddleware(logger.default));
 
 store.subscribe(() => {
   console.log(store.getState());
