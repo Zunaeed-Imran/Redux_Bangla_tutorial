@@ -14,3 +14,5 @@ const getAllTodos = () => async (dispatch) => {
     dispatch({ type: GET_TODOS_FAIELD, payload: error.message });
   }
 };
+
+export default getAllTodos;

@@ -13,6 +13,7 @@
 ### what we need in this practice.
 - we need `Redux Thunk` for 'fetching' data and `axios`
 - we need to install redux, for Middleware logger.
+- Remember i provided the "store const" in 'main.jsx' file.
 
 #### Done Task For Today
 - Learinng fetch data using redux-thunk.

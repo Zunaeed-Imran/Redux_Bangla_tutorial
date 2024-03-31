@@ -14,3 +14,6 @@
 - than we install 'redux thunk', for async action create.
 - than install 'axios', for fetching data from API.
 - 
+
+
+### Remember i provided the store in 'main.jsx' file.
