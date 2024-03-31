@@ -13,4 +13,6 @@
 
 #### Done Task For Today
 - Learinng fetch data using redux-thunk.
-- 
+- Practicing fetch data using redux-thunk.
+- Learning react-redux | complete counter react app.
+- Practicing react-redux | complete counter react app.
