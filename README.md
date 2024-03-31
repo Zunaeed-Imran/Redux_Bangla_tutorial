@@ -9,7 +9,9 @@
 - `npm install redux`
 - with this command we install this repository for redux.
 
-
+### what we need in this practice.
+- we need `Redux Thunk` for 'fetching' data and `axios`
+- we need to install redux, for Middleware logger.
 
 #### Done Task For Today
 - Learinng fetch data using redux-thunk.
