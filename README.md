@@ -20,4 +20,4 @@
 - Learning react-redux | complete counter react app.
 - Practicing react-redux | complete counter react app.
 - Learning react-redux | fetch data.
-- 
+- Practicing react-redux | fetch data async way.
