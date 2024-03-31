@@ -1,5 +1,6 @@
 # Redux_Bangla_tutorial
-#### Redux bangla tutorila by anisul islam youtube channel.
+#### we practice redux, react-redux, reduxtoolkit.
+
 
 [Redux tutorial by Anisul Islam](https://youtu.be/ttunWZ9sN0Q?si=5C9T0z6uaatiyDeK)
 
@@ -18,3 +19,5 @@
 - Practicing fetch data using redux-thunk.
 - Learning react-redux | complete counter react app.
 - Practicing react-redux | complete counter react app.
+- Learning react-redux | fetch data.
+- 

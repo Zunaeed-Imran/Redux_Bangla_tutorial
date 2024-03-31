@@ -1,0 +1,16 @@
+### step of this practice.
+- step1: install Packages.
+- step2: const define.
+- step3: async action creator.
+- step4: reducer.
+- step5: create store.
+- step6: provide store.
+- step7: use store.
+- step8:adding CSS.
+
+
+## some api install step.
+- first we install `npm install react-redux`
+- than we install 'redux thunk', for async action create.
+- than install 'axios', for fetching data from API.
+- 
